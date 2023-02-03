@@ -1,4 +1,4 @@
-# Scraping Mvideo
+# Scraping  website Mvideo
 
 Необходимо получить определенные товары со скидкой на сайте [Mvideo](https://www.mvideo.ru/)
 
